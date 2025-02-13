@@ -1,5 +1,3 @@
-# GTAcrypto
-Grand Theft Auto Crypto Server
 GTA 6 Crypto RP Server
 A project to create a revolutionary Grand Theft Auto 6 multiplayer server that integrates cryptocurrency into the gameplay. The server will introduce new role-playing experiences, allowing players to engage in a deep, immersive world where cryptocurrency plays a key role in gameplay. From in-game businesses to unique interactions, we aim to push the boundaries of what a GTA server can be.
 
